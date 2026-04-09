@@ -1,0 +1,19 @@
+{
+  "version": "1.0.0",
+  "icons": [
+    {
+      "name": "close",
+      "category": "ui",
+      "tags": ["x", "dismiss", "cancel"],
+      "path": "icons/ui/close.svg",
+      "url": "https://cdn.jsdelivr.net/gh/ba/brand-icons@main/icons/ui/close.svg"
+    },
+    {
+      "name": "menu",
+      "category": "ui",
+      "tags": ["hamburger", "navigation", "nav"],
+      "path": "icons/ui/menu.svg",
+      "url": "https://cdn.jsdelivr.net/gh/YOURUSERNAME/brand-icons@main/icons/ui/menu.svg"
+    }
+  ]
+}
